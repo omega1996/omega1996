@@ -2,6 +2,7 @@
 ### My name is Ivan Riazanov
 
 - 🔭 I’m currently working on [heyscribe](https://www.heyscribe.com/)
+- 👨‍💻 I am part of [latedev](https://late-dev.github.io/) as Frontend Developer
 - 📖 I have masters degree in Information Technology
 - 📚 [I have habr articles](https://habr.com/en/articles/711972/)
 - 🧑‍🔬 I have [scientific publications](https://link.springer.com/chapter/10.1007/978-3-030-34518-1_7). My research interests are: machine learning, clustering, natural language processing and labor market
