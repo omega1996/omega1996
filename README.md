@@ -7,7 +7,7 @@
 - 📚 [I have habr articles](https://habr.com/en/articles/711972/)
 - 🧑‍🔬 I have [scientific publications](https://link.springer.com/chapter/10.1007/978-3-030-34518-1_7). My research interests are: machine learning, clustering, natural language processing and labor market
 - 💬 I can fluently communicate in English and Russian
-- 🫡 I am proud of my works: [Heyscribe application](https://my.heyscribe.com/), [subtitles generator bot](https://t.me/subsby_bot)
+- 🫡 I am proud of my works: [Heyscribe application](https://my.heyscribe.com/), [subtitles generator bot](https://t.me/subsby_bot), [Cashflow bot](https://t.me/keepcashflowbot)
 - 📫 How to reach me: tg: [@ivan5](https://t.me/ivan5), mail: [omega19961@gmail.com](mailto:omega19961@gmail.com), in: [ivan-riazanov](https://www.linkedin.com/in/ivan-riazanov/)
 
 🛠 Tech Stack: 
