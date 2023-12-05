@@ -1,4 +1,4 @@
-![image](https://github.com/omega1996/omega1996/assets/35338204/8d31a1f4-06b3-462e-bc60-047877bce657)### Hi there 👋 
+![image](https://github.com/omega1996/omega1996/assets/35338204/6741c3a0-2814-486e-a23d-0c1875f3cd3a)![image](https://github.com/omega1996/omega1996/assets/35338204/8d31a1f4-06b3-462e-bc60-047877bce657)### Hi there 👋 
 ### My name is Ivan Riazanov
 
 - 🔭 I’m currently working on [heyscribe](https://www.heyscribe.com/)
@@ -22,7 +22,9 @@
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" height="40"></a>
 <a href="https://github.com/sass/sass" target="_blank"><img src="https://github.com/sass.png?size=40" height="40"></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" height="40"></a>
+<a href="https://www.sqlalchemy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/120px-SQLAlchemy.svg.png" height="40"></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" height="40"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=48" height="40"></a>
 
 
 <!--
