@@ -1,7 +1,7 @@
-![image](https://github.com/omega1996/omega1996/assets/35338204/6741c3a0-2814-486e-a23d-0c1875f3cd3a)![image](https://github.com/omega1996/omega1996/assets/35338204/8d31a1f4-06b3-462e-bc60-047877bce657)### Hi there 👋 
+### Hi there 👋 
 ### My name is Ivan Riazanov
 
-- 🔭 I’m currently working on [heyscribe](https://www.heyscribe.com/)
+- 🔭 I’m currently looking for a new job!
 - 👨‍💻 I am part of [latedev](https://late-dev.github.io/) as Frontend Developer
 - 📖 I have masters degree in Information Technology
 - 📚 [I have habr articles](https://habr.com/en/articles/711972/)
